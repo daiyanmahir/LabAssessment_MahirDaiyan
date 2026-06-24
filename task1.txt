@@ -1,0 +1,1 @@
+We use git commit to record or track our changes in local directory with a message 
